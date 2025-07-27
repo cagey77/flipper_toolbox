@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+Micro python.py.
 
 """
     Reads: proxmark3 MiFare json dump files
